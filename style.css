@@ -1,0 +1,50 @@
+.p-70 {
+    padding: 70px;
+}
+
+.bg-gray {
+    background-color: #ffa500;
+}
+
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.list-unstyled li a {
+    text-decoration: none;
+}
+
+.list-unstyled a:hover {
+    text-decoration: underline;
+}
+
+.bg-transparent {
+    background-color: rgb(222, 202, 202) !important;
+}
+
+.border-drak {
+    border-color: brown !important;
+}
+
+.border-end-0 {
+    border-right: 0;
+}
+
+.py-4 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.bg-drak-gray {
+    background-color: aquamarine;
+}
+
+.text-gary-300 {
+    color: rgb(0, 0, 0);
+}
